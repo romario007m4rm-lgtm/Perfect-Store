@@ -1,0 +1,6 @@
+{
+  "name": "PERFECT STORE",
+  "description": "An ultra-luxurious, exclusive virtual concept boutique inspired by high-end showroom aesthetics, featuring interactive holographic displays, custom tailoring ateliers, and a Sentinel Eye AI Luxury Curator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
